@@ -21,7 +21,7 @@ func main() {
 </pre>
 
 # Why
-This package is inspired by [sindresorhus](https://www.npmjs.com/package/archive-extensions) npm module for Archive extension.
+This package is inspired by [archive-extensions](https://www.npmjs.com/package/archive-extensions) npm module for Archive extension.
 
 # License
 MIT © [Shamsher Ansari](https://github.com/shamsher31)

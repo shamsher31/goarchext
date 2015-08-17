@@ -1,13 +1,13 @@
 # goarchext
 List of Archive file extensions for Go
 
-# How to install
-<pre>
+### How to install
+```go
 go get github.com/shamsher31/goarchext
-</pre>
+```
 
-# How to use
-<pre>
+### How to use
+```go
 package main
 
 import (
@@ -18,10 +18,10 @@ import (
 func main() {
 	fmt.Println(archext.Get())
 }
-</pre>
+```
 
-# Why
-This package is inspired by [archive-extensions](https://www.npmjs.com/package/archive-extensions) npm module for Archive extension.
+### Why
+This package is inspired by [archive-extensions](https://www.npmjs.com/package/archive-extensions) npm module.
 
 # License
 MIT © [Shamsher Ansari](https://github.com/shamsher31)
